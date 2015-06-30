@@ -37,3 +37,6 @@ function updateScore (score,addScore) {
 	}
 
 }
+function updateNewScore () {
+	$('#score').text(0);
+}
